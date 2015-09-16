@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+Git creates a ".git" directory in the current working directory.  This is needed so git knows what to do.
+
+
