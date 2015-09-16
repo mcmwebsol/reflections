@@ -4,3 +4,16 @@ Git creates a ".git" directory in the current working directory.  This is needed
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is a separate version of the file(s) that is not in the repository yet.
 It offers a temporary area to avoid committing to the repository when in the middle of changes.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By only committing when one logical change is complete or undoing changes if more than one was accidently done.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When multiple separate new features are in development separately or when multiple people are working on the same
+project, especially the same files.  Branches keep the different versions separated so they can be developed
+independently.
+
+How do the diagrams help you visualize the branch structure?
+Much easier to see where you are and where all the branches are.
+
+
